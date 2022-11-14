@@ -5,4 +5,4 @@ I made some changes based on the original version that I forked from and added t
 
 Simply change the city and run the code you will get the results.
 
-<img src="https://github.com/Yulan-Fang/zillow_scrape_python/blob/master/WechatIMG61.png" width="400"  height="600">
+<img src="https://github.com/Yulan-Fang/zillow_scrape_python/blob/master/WechatIMG61.png" width="400"  height="700">
