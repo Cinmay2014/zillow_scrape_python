@@ -91,7 +91,7 @@ def sendinfo():
     gmail_user = '@gmail.com' # Your email account
     gmail_password = '' # Your email password
     sent_from = gmail_user
-    to = ['ahylfang@gmail.com']
+    to = ['@gmail.com'] # target email account
     # subject = "%s Malden House Price"%datetime.datetime.now().strftime('%Y%m%d %H')
     # body = 'Result \n' + data.to_string()
     # email_text = """\
